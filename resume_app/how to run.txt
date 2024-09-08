@@ -1,0 +1,3 @@
+source envir/bin/activate
+python manage.py runserver
+
